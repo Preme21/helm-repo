@@ -11,10 +11,5 @@
     "type": "git",
     "url": "git+https://github.com/Preme21/helm-repo.git"
   },
-  "author": "preme",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Preme21/helm-repo/issues"
-  },
   "homepage": "https://github.com/Preme21/helm-repo#readme"
 }
