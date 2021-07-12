@@ -1,0 +1,20 @@
+{
+  "name": "helm-repo",
+  "version": "1.0.0",
+  "description": "For helm task",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Preme21/helm-repo.git"
+  },
+  "author": "fhinkel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Preme21/helm-repo/issues"
+  },
+  "homepage": "https://github.com/Preme21/helm-repo#readme"
+}
